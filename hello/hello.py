@@ -1,0 +1,1 @@
+print("Selamat Mengikuti Uji Kompetensi pada Skema Junior Web Programer")
